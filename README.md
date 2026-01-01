@@ -1,2 +1,3 @@
 # captainkrisha1707
 this is my first Git respority 
+Author :- captain krisha gupta
